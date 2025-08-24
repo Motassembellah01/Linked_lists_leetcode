@@ -8,7 +8,7 @@ Showcase my ability to approach problems systematically and improve over time. B
 
 🧩 Problems Solved
 
-  21.Merge Two Sorted Lists
-  143.Reorder List
-  19.Remove Nth Node From End of List
-  206.Reverse Linked List
+  21. Merge Two Sorted Lists
+  143. Reorder List
+  19. Remove Nth Node From End of List
+  206. Reverse Linked List
